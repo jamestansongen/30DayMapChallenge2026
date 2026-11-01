@@ -1,0 +1,15 @@
+Step 1: Download data from https://github.com/philmikejones/trigpoints
+Step 2: Extract using Python (refer to Day 1.ipynb)
+Step 3: Duplicate the layer twice in QGIS. Use the graduated colour scheme below with height as the variable.
+- Top layer (core): 0.400mm, 100% symbol opacity, normal blend mode
+- Middle layer (inner glow): 0.900mm, 20% symbol opacity, addition blend mode
+- Bottom layer (outer glow): 2.000mm, 8% symbol opacity, addition blending mode
+
+Position	Colour		Meaning
+0%: 		#5a2a0c		Deep amber, the lowest pillars
+25%: 		#c8641e		Orange
+50%: 		#ffb347		Gold
+75%: 		#fff2c8		Pale cream
+100%: 		#ffffff		White, the highest pillars
+
+Step 4: Use #04060b as the background and ne_10m_land underneath (https://www.naturalearthdata.com/downloads/10m-physical-vectors/), fill #0b0f17
