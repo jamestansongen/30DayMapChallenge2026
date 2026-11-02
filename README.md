@@ -16,7 +16,8 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 Two years ago for the same challenge, I imagined a train network connecting the US National Parks. This year, I headed south: what if South America had a railway linking all 27 of its natural and mixed UNESCO World Heritage Sites?
 
 As with the previous map, I used a minimum spanning tree as the skeleton network, then added links to form loops for redundancy. I rerouted segments that would have run through the ocean and created ferry routes to the Galápagos Islands, Malpelo and Fernando de Noronha. Iguazú Falls also gets two stations, one on each side of the Argentina–Brazil border, connected by a border transfer. Each line name draws on South American culture and nature:
-🔴 Qhapaq Ñan Line: the Inca road network along the Andes
+
+/n🔴 Qhapaq Ñan Line: the Inca road network along the Andes
 🟢 Amazonas Line: across the rainforest to the Atlantic
 🟡 Jaguar Line: named after the big cat found across the Amazon, Pantanal and Cerrado
 🔵 Bossa Nova Line: named after Brazil’s music genre, serving Brazilian stops
