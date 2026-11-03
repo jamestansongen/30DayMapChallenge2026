@@ -1,0 +1,18 @@
+Data Source:
+Population (Unconstrainted individual countries 2020 UN adjusted (1km resolution): https://hub.worldpop.org/geodata/listing?id=77
+Precipitation/Elevation: https://www.worldclim.org/data/worldclim21.html
+
+Population
+1. Raster calculator to log the population density: log10("esp_pd_2020_1km_UNadj@1" + 1)
+2. r.neighbour with size 11 to smooth the polygons. Clip the raster to the country outline.
+3. Contour polygons with custom interval under the additional command-line parameter: -fl 1 1.5 2 2.5 3 3.5 4 4.5
+4. Categorised>Min_Elev>Set colour ramp. Draw effects with drop shadow enabled. Advanced>Set Symbol Level with smaller number for smaller values and vice versa.
+
+Precipitation
+1. Raster calculator to get annual precipitation: "wc2.1_30s_prec_01@1" + "wc2.1_30s_prec_02@1" + "wc2.1_30s_prec_03@1" + "wc2.1_30s_prec_04@1" + "wc2.1_30s_prec_05@1" + "wc2.1_30s_prec_06@1" + "wc2.1_30s_prec_07@1" + "wc2.1_30s_prec_08@1" + "wc2.1_30s_prec_09@1" + "wc2.1_30s_prec_10@1" + "wc2.1_30s_prec_11@1" + "wc2.1_30s_prec_12@1"
+2. Contour polygons with custom interval under the additional command-line parameter: -fl 300 400 500 600 800 1000 1500
+3. Categorised>Min_Elev>Set colour ramp. Draw effects with drop shadow enabled. Advanced>Set Symbol Level with smaller number for smaller values and vice versa.
+
+
+Elevation
+1. Contour polygons with custom interval under the additional command-line parameter: -fl 200 400 600 800 1000 1500 2000 2500
