@@ -11,6 +11,14 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 3: Polygons
+
+When we think of contours, we usually think of elevation. Two years ago I used contour polygons to map the Isle of Skye, and last year I applied them to the elevation and bathymetry of Crater Lake. But contours can be drawn for any continuous surface, so this year I mapped population density across Spain instead.
+
+![Day 3](Day%201/Day%203_v2.png)
+
+Data Source: [Unconstrainted individual countries 2020 UN adjusted (1km resolution)](https://hub.worldpop.org/geodata/listing?id=77), [Precipitation and Elevation](https://www.worldclim.org/data/worldclim21.html)
+
 ### Day 2: Lines
 
 Two years ago for the same challenge, I imagined a train network connecting the US National Parks. This year, I headed south: what if South America had a railway linking all 27 of its natural and mixed UNESCO World Heritage Sites?
