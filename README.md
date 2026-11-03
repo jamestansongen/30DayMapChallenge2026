@@ -15,7 +15,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 When we think of contours, we usually think of elevation. Two years ago I used contour polygons to map the Isle of Skye, and last year I applied them to the elevation and bathymetry of Crater Lake. But contours can be drawn for any continuous surface, so this year I mapped population density across Spain instead.
 
-![Day 3](Day%201/Day%203_v2.png)
+![Day 3](Day%203/Day%203_v2.png)
 
 Data Source: [Unconstrainted individual countries 2020 UN adjusted (1km resolution)](https://hub.worldpop.org/geodata/listing?id=77), [Precipitation and Elevation](https://www.worldclim.org/data/worldclim21.html)
 
