@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 4: Clusters
+
+I visited Dartmoor National Park in 2024 and was fascinated by the tors, the granite outcrops that crown the hilltops across the moor. For this map, I took 636 tors that the public can visit and used a clustering algorithm (HDBSCAN) to find where they naturally bunch together. It found 7 groups, each named after the tor closest to its middle, while 189 tors stand on their own.
+
+And yes, there really is a place called Yes Tor.
+
+![Day 4](Day%204/Day%204.png)
+
+Data Source: [TORS OF DARTMOOR: a database of both lesser- & well-known rocks and outcrops](https://www.torsofdartmoor.co.uk/map.php)
+
 ### Day 3: Polygons
 
 When we think of contours, we usually think of elevation. Two years ago I used contour polygons to map the Isle of Skye, and last year I applied them to the elevation and bathymetry of Crater Lake. But contours can be drawn for any continuous surface, so this year I mapped population density across Spain instead.
