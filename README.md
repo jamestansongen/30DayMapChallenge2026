@@ -21,7 +21,7 @@ This viewshed was built on a 1 m digital surface model from DataMapWales, so bui
 
 ![Day 5](Day%205/Day%205_edited.png)
 
-Data Source: [DSMs](https://datamap.gov.wales/maps/lidar-data-download/)
+Data Source: [DSM from DataMapWales](https://datamap.gov.wales/maps/lidar-data-download/)
 
 ### Day 4: Clusters
 
