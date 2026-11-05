@@ -11,6 +11,18 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 5: Senses: Sight
+
+The first of five senses in this year’s challenge and the obvious place to start felt like a visibility analysis.
+
+From 1,085 metres, Yr Wyddfa can see far, but not everywhere. Ridges, cwms and its own shoulders hide whole valleys from view. The glowing areas are what the summit can see within 5 km. Everything in shadow is out of sight.
+
+This viewshed was built on a 1 m digital surface model from DataMapWales, so buildings count as terrain, including the summit station and café, which end up blocking part of the view.
+
+![Day 5](Day%205/Day%205_edited.png)
+
+Data Source: [DSMs](https://datamap.gov.wales/maps/lidar-data-download/)
+
 ### Day 4: Clusters
 
 I visited Dartmoor National Park in 2024 and was fascinated by the tors, the granite outcrops that crown the hilltops across the moor. For this map, I took 636 tors that the public can visit and used a clustering algorithm (HDBSCAN) to find where they naturally bunch together. It found 7 groups, each named after the tor closest to its middle, while 189 tors stand on their own.
