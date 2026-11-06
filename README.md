@@ -11,6 +11,18 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 6: Vintage
+
+Two things immediately came to mind when I saw today's theme: Edinburgh's Old Town and the Marauder's Map from Harry Potter. This map brings those two ideas together, showing part of the walking route I took during my visit to Edinburgh in August 2026.
+
+During my stay, I was based at 475 Lawnmarket. From there, I visited Edinburgh Castle, stopped for a cup of tea at The Elephant House (famous for its association with J.K. Rowling), and wandered through Greyfriars Kirkyard.
+
+To achieve the Marauder's Map-inspired feel, I reduced the size of the buildings to create more space for the footprints to stand out. I then digitised my walking route and generated footprints along it to recreate the effect of wandering through the city. It took a bit of tinkering to get the look right, but I'm really pleased with how it turned out!
+
+![Day 6](Day%206/Day%206.gif)
+
+Data Source: [OpenStreetMaps]([https://datamap.gov.wales/maps/lidar-data-download/](https://www.openstreetmap.org/#map=19/54.240707/-1.209447))
+
 ### Day 5: Senses: Sight
 
 The first of five senses in this year’s challenge and the obvious place to start felt like a visibility analysis.
