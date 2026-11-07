@@ -1,0 +1,72 @@
+// 1. Import Data and Set Study Area/Date Range
+// Import VNP46A2: VIIRS Lunar Gap-Filled BRDF Nighttime Lights Daily L3 Global 500m
+// https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP46A2
+
+var viirs = ee.ImageCollection('NASA/VIIRS/002/VNP46A2')
+  .select('DNB_BRDF_Corrected_NTL');
+
+// Define date range
+var startDate = '2024-10-01';
+var endDate = '2024-10-15';
+
+// Filter by date range
+var filteredViirs = viirs.filterDate(startDate, endDate);
+
+// Set the center for the Earth
+Map.setCenter(0.0, 20.0, 2);
+
+
+// 2. Create Image Composite
+
+// Create a composite image using the max function
+// to highlight the brightest areas
+var compositeViirs = filteredViirs.max();
+
+
+// 3. Visualise and Export Results
+
+var visParams = {
+  min: 0,
+  max: 30,
+  palette: [
+    '000000',
+    '003366',
+    '006699',
+    '33cc33',
+    '66ff33',
+    'ccff99',
+    'ffffff'
+  ]
+};
+
+
+// Add the VIIRS data to the map
+Map.addLayer(
+  filteredViirs,
+  visParams,
+  'VIIRS October 2024 Global'
+);
+
+
+// Add the composite image to the map
+Map.addLayer(
+  compositeViirs.visualize(visParams),
+  {},
+  'Composite VIIRS October 2024 Global'
+);
+
+
+// 4. Export the Composite Image
+
+Export.image.toDrive({
+  image: compositeViirs.visualize(visParams),
+  description: 'VIIRS_Composite_Global_Oct2024',
+  scale: 500,
+  region: ee.Geometry.Rectangle(
+    [-179.9, -89.9, 179.9, 89.9],
+    null,
+    false
+  ),
+  maxPixels: 1e13,
+  fileFormat: 'GEOTIFF'
+});
