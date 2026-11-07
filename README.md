@@ -17,6 +17,10 @@ This one came in under 10 minutes because most of the work was already done. Thi
 
 Taking the maximum VIIRS pixel value (VNP46A2) for 1–15 October 2024, you can pick out where strong aurora appeared. That period includes the severe geomagnetic storm of 10–11 October. The northern lights glow green across Canada, and the southern lights reach the tip of South America near Tierra del Fuego.
 
+![Day 7](Day%207/Day%207_edited.png)
+
+Data Source: [VNP46A2: VIIRS Lunar Gap-Filled BRDF Nighttime Lights Daily L3 Global 500m](https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP46A2)
+
 ### Day 6: Vintage
 
 Two things immediately came to mind when I saw today's theme: Edinburgh's Old Town and the Marauder's Map from Harry Potter. This map brings those two ideas together, showing part of the walking route I took during my visit to Edinburgh in August 2024.
@@ -27,7 +31,7 @@ To achieve the Marauder's Map-inspired feel, I reduced the size of the buildings
 
 ![Day 6](Day%206/Day%206.gif)
 
-Data Source: [VNP46A2: VIIRS Lunar Gap-Filled BRDF Nighttime Lights Daily L3 Global 500m](https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP46A2)
+Data Source: [OpenStreetMaps](https://www.openstreetmap.org/#map=12/1.3649/103.8229)
 
 ### Day 5: Senses: Sight
 
