@@ -11,6 +11,12 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 7: 10 minute map
+
+This one came in under 10 minutes because most of the work was already done. This is my third aurora map using VIIRS night-time lights. Reusing the same code meant I only had to change the region of interest, the date range and the projection (orthographic so both hemispheres fit nicely).
+
+Taking the maximum VIIRS pixel value (VNP46A2) for 1–15 October 2024, you can pick out where strong aurora appeared. That period includes the severe geomagnetic storm of 10–11 October. The northern lights glow green across Canada, and the southern lights reach the tip of South America near Tierra del Fuego.
+
 ### Day 6: Vintage
 
 Two things immediately came to mind when I saw today's theme: Edinburgh's Old Town and the Marauder's Map from Harry Potter. This map brings those two ideas together, showing part of the walking route I took during my visit to Edinburgh in August 2024.
@@ -21,7 +27,7 @@ To achieve the Marauder's Map-inspired feel, I reduced the size of the buildings
 
 ![Day 6](Day%206/Day%206.gif)
 
-Data Source: [OpenStreetMaps]([https://datamap.gov.wales/maps/lidar-data-download/](https://www.openstreetmap.org/#map=19/54.240707/-1.209447))
+Data Source: [VNP46A2: VIIRS Lunar Gap-Filled BRDF Nighttime Lights Daily L3 Global 500m](https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP46A2)
 
 ### Day 5: Senses: Sight
 
