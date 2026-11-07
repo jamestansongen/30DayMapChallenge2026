@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 6: Vintage
 
-Two things immediately came to mind when I saw today's theme: Edinburgh's Old Town and the Marauder's Map from Harry Potter. This map brings those two ideas together, showing part of the walking route I took during my visit to Edinburgh in August 2026.
+Two things immediately came to mind when I saw today's theme: Edinburgh's Old Town and the Marauder's Map from Harry Potter. This map brings those two ideas together, showing part of the walking route I took during my visit to Edinburgh in August 2024.
 
 During my stay, I was based at 475 Lawnmarket. From there, I visited Edinburgh Castle, stopped for a cup of tea at The Elephant House (famous for its association with J.K. Rowling), and wandered through Greyfriars Kirkyard.
 
