@@ -11,6 +11,17 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 8: Utopia
+
+“There will be no more death or mourning or crying or pain, for the old order of things has passed away.” (Revelation 21:4)
+
+This one was tough. Every utopia I thought of, like fixing coastal flooding or making the built environment more liveable, comes with trade-offs and messy realities. So I went with the one place described as having none: the New Jerusalem.
+
+The map draws mainly from Revelation 21–22 for the dimensions, gates, foundations, throne, tree and river, with gate placement taken from Ezekiel 48. I added the relevant verse next to each feature so you can see where it comes from.
+
+Some verses need interpretation and are probably debated by Bible scholars, but this is my reading of the text.
+![Day 8](Day%208/Day%208.png)
+
 ### Day 7: 10 minute map
 
 This one came in under 10 minutes because most of the work was already done. This is my third aurora map using VIIRS night-time lights. Reusing the same code meant I only had to change the region of interest, the date range and the projection (orthographic so both hemispheres fit nicely).
