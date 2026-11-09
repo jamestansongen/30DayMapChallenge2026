@@ -11,6 +11,22 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 9: Urban-Rural
+
+Where exactly does urban end and rural begin? The shift from city to countryside is often more of a gradient than a sharp line, so how urban a place looks depends on where you draw the boundary.
+
+This map looks at Paris through four official definitions, each one wider than the last:
+1. Ville de Paris: the official city (104 km²)
+2. Métropole du Grand Paris: the administrative metropolis (809 km²)
+3. Unité urbaine: the continuous built-up area (2,819 km²)
+4. Aire d’attraction: the commuter region (18,896 km²)
+
+Measuring the land cover inside each one shows how quickly Paris turns rural: built-up land drops from 73% of the official city to just 8% of the commuter region while farmland rises from almost 0% to 50%.
+
+![Day 9](Day%209/Day%209.png)
+
+Data Source: [ESA WorldCover 10m 2021 v200](https://esa-worldcover.org/) ; [INSEE Base des unités urbaines 2020](https://www.insee.fr/fr/information/4802589) ; [INSEE Base des aires d'attraction des villes 2020](https://www.insee.fr/fr/information/4803954) ; [INSEE Base des EPCI à fiscalité propre au 1er janvier 2026](https://www.insee.fr/fr/information/2510634)
+
 ### Day 8: Utopia
 
 “There will be no more death or mourning or crying or pain, for the old order of things has passed away.” (Revelation 21:4)
