@@ -1,0 +1,9 @@
+Prompt 1: Create a lo-fi map of New York entirely from code. Obtain the necessary geographic data, process it with Python/GeoPandas, choose a limited colour palette, simplify the geometry, add roads/water/landmarks, and export a finished map as PNG. Do not use an AI image generator; the final map must be generated from actual geographic data.
+
+this is part of #30DayMapChallenge where the task is "For this map, make AI work for its money and produce something from start to finish in a chat window or on the command line."
+
+Prompt 2: I think the map looks a bit odd because it only shows Staten Island, Brooklyn, Queens, the Bronx, and Manhattan. We should include the surrounding areas as well, perhaps making them more transparent so that New York remains the main focus. Also, instead of a lo-fi style, could we try a pixel-art colour scheme inspired by Stardew Valley?
+
+Prompt 3: Let's try moving the legend to just below the title. We can move the data source, scale bar, and north arrow higher up while leaving some space below Staten Island. This should help make the map less elongated and reduce excessive empty space in the north–south direction.
+
+Prompt 4: Some labels are difficult to read, particularly those for Jamaica Bay and Upper Bay. Could we improve their visibility by adjusting the font size, colour, or placement while keeping the overall map design consistent?
