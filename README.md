@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 10: Prompting Only
+
+For this one I handed the wheel to Claude Opus 5.5 and asked it to make a map of New York City in the style of Stardew Valley. The pixel aesthetic was something I wanted to try for a while but could never quite get right myself.
+
+The rules I set included 1) no AI image generated map, 2) every pixel had to come from real geographic data and code and 3) it had to find the data and show me the code it used. It handled the whole workflow from start to finish from downloading the open data (streets, subway lines, surrounding counties) to processing and projecting everything in Python and creating the pixel textures (grass tufts, water sparkle, little trees in the parks) in code.
+
+My job was mostly reviewing checking colour contrast, making sure the labels were legible and verifying accuracy. I checked the landmarks and didn’t spot any major issues. It was genuinely impressive to read back through the whole pipeline. It’s not perfect and still needed a human eye, but it’s a big leap from the AI-only map I made two years ago.
+
+![Day 10](Day%2010/Day%2010.png)
+
 ### Day 9: Urban-Rural
 
 Where exactly does urban end and rural begin? The shift from city to countryside is often more of a gradient than a sharp line, so how urban a place looks depends on where you draw the boundary.
