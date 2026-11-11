@@ -19,7 +19,7 @@ For this one, I wanted the design itself to feel like music, so each city is an 
  
 The data comes from setlist.fm, where fans log the sets they see live. It is quite comprehensive and has an open API, which made it easy to pull counts for every city and year. One caveat though is part of the rise in performances reflects more people using the site, not just more gigs.
 
-![Day 11](Day%2011/Day%2011.mp4)
+![Day 11](Day%2011/Day%2011.gif)
 
 Data Source:[setlist.fm](https://www.setlist.fm/)
 Music: [On The Road To The Eighties” by Grand_Project / Roman Dudchyk, via Pixabay](https://pixabay.com/music/synthwave-on-the-road-to-the-eighties-loop1-177567/)
