@@ -11,6 +11,19 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 11: Senses: Sound
+
+🔊 Sound on for some 80s synthwave
+
+For this one, I wanted the design itself to feel like music, so each city is an LED level meter, the kind you see bouncing on a stereo, showing how many live performances were logged there each year from 2010 to 2020. Across 50 cities, logged performances climbed steadily through the decade, from around 71,000 in 2010 to over 126,000 in 2019, before dropping 69% in 2020 during Covid. 
+ 
+The data comes from setlist.fm, where fans log the sets they see live. It is quite comprehensive and has an open API, which made it easy to pull counts for every city and year. One caveat though is part of the rise in performances reflects more people using the site, not just more gigs.
+
+![Day 11](Day%2011/Day%2011.mp4)
+
+Data Source:[setlist.fm](https://www.setlist.fm/)
+Music: [On The Road To The Eighties” by Grand_Project / Roman Dudchyk, via Pixabay](https://pixabay.com/music/synthwave-on-the-road-to-the-eighties-loop1-177567/)
+
 ### Day 10: Prompting Only
 
 For this one I handed the wheel to Claude Opus 5.5 and asked it to make a map of New York City in the style of Stardew Valley. The pixel aesthetic was something I wanted to try for a while but could never quite get right myself.
