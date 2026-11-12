@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 12: Power
+
+I decided to explore nuclear power trends as Singapore is studying whether nuclear could be an option, including through the IAEA’s Integrated Nuclear Infrastructure Review.
+
+Since 2011, countries have taken very different paths. China has expanded nuclear power the most, while Germany and Taiwan have left it entirely. Japan has mothballed much of its fleet rather than retiring it, and the UAE and Belarus have switched on their first reactors, with Egypt and Bangladesh building theirs now. Every country has its own reasons, whether safety, politics, energy security or growing demand. It is a reminder that whether to go nuclear is less a global trend than a national choice, shaped by each country’s own circumstances.
+
+![Day 12](Day%2012/Day%2012.png)
+
+Data Source: [Global Nuclear Power Tracker dataset](https://globalenergymonitor.org/projects/global-nuclear-power-tracker#download) ; [Yearly Electricity Data](https://ember-energy.org/data/yearly-electricity-data/)
+
 ### Day 11: Senses: Sound
 
 🔊 Sound on for some 80s synthwave
