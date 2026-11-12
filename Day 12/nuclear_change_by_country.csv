@@ -1,0 +1,39 @@
+Country,Capacity end 2010 (GW),Operating now (GW),Added since 2010 (GW),Retired since 2010 (GW),Mothballed (GW),Under construction (GW),Net change (GW),ISO3,Group
+Japan,42.87,14.61,3.0,16.16,15.11,6.12,-28.26,JPN,existing
+Germany,21.52,0.0,0.0,21.52,0.0,0.0,-21.52,DEU,left
+United States,109.51,102.48,3.72,10.76,0.0,1.2,-7.04,USA,existing
+United Kingdom,11.89,6.53,0.0,5.36,0.0,3.44,-5.36,GBR,existing
+Taiwan,5.14,0.0,0.0,5.14,0.0,0.0,-5.14,TWN,left
+Sweden,10.21,7.18,0.0,3.03,0.0,0.0,-3.03,SWE,existing
+Belgium,6.21,4.1,0.0,2.11,0.0,0.0,-2.11,BEL,existing
+Canada,15.3,14.63,0.0,0.68,0.0,0.3,-0.68,CAN,existing
+Spain,7.87,7.41,0.0,0.47,0.0,0.0,-0.47,ESP,existing
+Switzerland,3.48,3.1,0.0,0.39,0.0,0.0,-0.39,CHE,existing
+France,65.88,65.69,1.65,1.84,0.0,0.0,-0.19,FRA,existing
+Hungary,2.03,2.03,0.0,0.0,0.0,2.53,0.0,HUN,existing
+Brazil,1.99,1.99,0.0,0.0,0.0,1.4,0.0,BRA,existing
+Bulgaria,2.08,2.08,0.0,0.0,0.0,0.0,0.0,BGR,existing
+Czech Republic,4.16,4.16,0.0,0.0,0.0,0.0,0.0,CZE,existing
+Egypt,0.0,0.0,0.0,0.0,0.0,4.8,0.0,EGY,first build
+South Africa,1.94,1.94,0.0,0.0,0.0,0.0,0.0,ZAF,existing
+Slovenia,0.73,0.73,0.0,0.0,0.0,0.0,0.0,SVN,existing
+Romania,1.41,1.41,0.0,0.0,0.0,0.0,0.0,ROU,existing
+North Korea,0.0,0.0,0.03,0.0,0.0,0.0,0.0,PRK,existing
+Netherlands,0.52,0.52,0.0,0.0,0.0,0.0,0.0,NLD,existing
+Mexico,1.61,1.61,0.0,0.0,0.0,0.0,0.0,MEX,existing
+Armenia,0.45,0.45,0.0,0.0,0.0,0.0,0.0,ARM,existing
+Bangladesh,0.0,0.0,0.0,0.0,0.0,2.4,0.0,BGD,first build
+Türkiye,0.0,0.0,0.0,0.0,0.0,4.8,0.0,TUR,first build
+Ukraine,13.84,13.84,0.0,0.0,0.0,0.0,0.0,UKR,existing
+Uzbekistan,0.0,0.0,0.0,0.0,0.0,0.11,0.0,UZB,first build
+Slovakia,2.0,2.47,0.47,0.0,0.0,0.47,0.47,SVK,existing
+Argentina,1.02,1.76,0.74,0.0,0.0,0.0,0.74,ARG,existing
+Iran,0.0,1.0,1.0,0.0,0.0,1.06,1.0,IRN,newcomer
+Finland,2.9,4.62,1.72,0.0,0.0,0.0,1.72,FIN,existing
+Belarus,0.0,2.39,2.39,0.0,0.0,0.0,2.39,BLR,newcomer
+Pakistan,0.42,3.53,3.2,0.1,0.0,1.2,3.1,PAK,existing
+India,4.56,8.4,4.32,0.0,0.48,6.6,3.84,IND,existing
+Russia,24.28,29.8,9.98,4.46,0.0,5.44,5.51,RUS,existing
+United Arab Emirates,0.0,5.67,5.67,0.0,0.0,0.0,5.67,ARE,newcomer
+South Korea,18.34,27.07,10.02,1.29,0.0,5.6,8.74,KOR,existing
+China,11.03,64.62,53.59,0.0,0.0,43.41,53.59,CHN,existing
