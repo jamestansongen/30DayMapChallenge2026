@@ -11,6 +11,20 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 13: Interactions
+
+Slightly late today, but agent-based modelling (ABM) takes a bit of time to build. ABM is one of my favourite techniques crafting the rules for each agent and building the world they live in. Unity is also my go-to for it nowadays, with 3D, physics and visuals all in one place. Cesium was a huge help as well, streaming Google’s photorealistic 3D tiles straight into Unity so the world looks like the real city.
+
+For this one I made a Shibuya Crossing simulator. Pedestrians wait at the corners, then everyone crosses at once. There are two variables to play with:
+• Crowd size: how many people are waiting at the lights
+• Aggressiveness: the share of pedestrians who walk faster, give way less and cut straight through the crowd
+Both polite and aggressive crowds bunch up in the middle of the crossing, but the aggressive pedestrians push through and get across faster, at the cost of a lot more bumping into each other.
+
+The web version is on https://jamestansongen.itch.io/shibuya-crossing-simulator and the 3D tiles will stay live till 14 December.
+
+![Day 13](Day%2013/Day%2013.gif)
+
+
 ### Day 12: Power
 
 I decided to explore nuclear power trends as Singapore is studying whether nuclear could be an option, including through the IAEA’s Integrated Nuclear Infrastructure Review.
