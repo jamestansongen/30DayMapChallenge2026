@@ -20,7 +20,7 @@ For this one I made a Shibuya Crossing simulator. Pedestrians wait at the corner
 • Aggressiveness: the share of pedestrians who walk faster, give way less and cut straight through the crowd
 Both polite and aggressive crowds bunch up in the middle of the crossing, but the aggressive pedestrians push through and get across faster, at the cost of a lot more bumping into each other.
 
-The web version is on https://jamestansongen.itch.io/shibuya-crossing-simulator and the 3D tiles will stay live till 14 December.
+The web version is on [Shibuya Crossing Simulator](https://jamestansongen.itch.io/shibuya-crossing-simulator) and the 3D tiles will stay live till 14 December.
 
 ![Day 13](Day%2013/Day%2013.gif)
 
