@@ -11,6 +11,18 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 15: Inside Out
+
+We are at the halfway mark of the challenge. For this prompt, I swapped the places of oceans and continents, so up becomes down and vice versa.
+ 
+Terra Inversa takes Earth’s elevation and depth (from GEBCO) and multiplies it by −1. The ocean floor rises into land, and the continents sink into the sea.
+ 
+A few things to note in this inverted world: the Mariana Trench becomes the highest mountain on the planet, while the Himalaya becomes the deepest trench. There are also no oceans on Terra Inversa as every old continent becomes a landlocked sea, cut off from the others.
+
+![Day 15](Day%2015/Day%2015_edited_compressed.png)
+
+Data Source: [GEBCO_2026 Grid (ice surface elevation)](https://discover.data.vic.gov.au/dataset/trees-with-species-and-dimensions-urban-forest) 
+
 ### Day 14: Borgesian map
 
 I kinda wanted to do everything, everywhere all at once, so I tried to force a few datasets into a blueprint-style layout. This included OSM buildings and streets, plus the City of Melbourne’s open inventories of street lighting, trees and street furniture (consisting of 15 categories such as bollards, bins, bicycle parking and BBQ pits).
