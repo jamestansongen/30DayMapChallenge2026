@@ -11,6 +11,19 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 14: Borgesian map
+
+I kinda wanted to do everything, everywhere all at once, so I tried to force a few datasets into a blueprint-style layout. This included OSM buildings and streets, plus the City of Melbourne’s open inventories of street lighting, trees and street furniture (consisting of 15 categories such as bollards, bins, bicycle parking and BBQ pits).
+ 
+That adds up to 82,064 trees, 106,037 street-lighting points and 26,250 pieces of street furniture all in one municipality. Zoomed out, it looks almost artistic, but zoom into any area and you see how much detail has been captured.
+ 
+The theme comes from Borges’ “On Exactitude in Science”, where an empire’s cartographers make a map so detailed it is the same size as the empire and hence is useless.
+
+![Day 14](Day%2014/Day%2014.png)
+
+Data Source: [Trees, with species and dimensions (Urban Forest)](https://discover.data.vic.gov.au/dataset/trees-with-species-and-dimensions-urban-forest) ; [Street furniture including bollards, bicycle rails, bins, drinking fountains, horse troughs, planter boxes, seats, barbecues](https://discover.data.vic.gov.au/dataset/street-furniture-including-bollards-bicycle-rails-bins-drinking-fountains-horse-troughs-planter
+) ; [Street lights with emitted lux level (council-owned lights only)](https://discover.data.vic.gov.au/dataset/street-lights-with-emitted-lux-level-council-owned-lights-only)
+
 ### Day 13: Interactions
 
 Slightly late today, but agent-based modelling (ABM) takes a bit of time to build. ABM is one of my favourite techniques crafting the rules for each agent and building the world they live in. Unity is also my go-to for it nowadays, with 3D, physics and visuals all in one place. Cesium was a huge help as well, streaming Google’s photorealistic 3D tiles straight into Unity so the world looks like the real city.
