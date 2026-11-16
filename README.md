@@ -11,6 +11,14 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 16: Collaborative Map
+
+A few years ago I collected Pokémon GO gift data from a number of contacts and this map uses one of them. In Pokémon GO, every gift a friend sends shows the PokéStop where they picked it up. Using this one subject's gifts, I tried to work out where they lived and worked in Maine. A cluster of many different stops close together suggested home or the surrounding neighbourhood, while the same stop repeating over and over pointed to a workplace, somewhere the person spent all day. The names of the stops also gave extra context: a library, post office and ice cream shop hint at everyday errands, while two marine research labs look a lot like a job. 
+
+Disclaimer: the subject stays anonymous and is no longer based in the area. All data was shared with consent.
+
+![Day 16](Day%2016/Day%2016.png)
+
 ### Day 15: Inside Out
 
 We are at the halfway mark of the challenge. For this prompt, I swapped the places of oceans and continents, so up becomes down and vice versa.
