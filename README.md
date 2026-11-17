@@ -11,6 +11,15 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 17: Light & Shadow
+
+Rjukan (Norway) sits in a valley where the mountains block the sun from late September to mid-March. The town’s founder first proposed a sun mirror in 1913 which was finally built in 2013. Today, three sun-tracking mirrors on the slope reflect light onto the town square.
+
+The map compares direct sun hours on the winter solstice, when the town square gets 0 minutes of sun, with the spring equinox, when it gets 18 minutes. The map was made with [cityshade](https://janosovm.gumroad.com/l/cityshade), a Python library by Milan Janosov. It was easy to use and there are plenty of tutorials.
+
+![Day 17](Day%2017/Day%2017.png)
+
+
 ### Day 16: Collaborative Map
 
 A few years ago I collected Pokémon GO gift data from a number of contacts and this map uses one of them. In Pokémon GO, every gift a friend sends shows the PokéStop where they picked it up. Using this one subject's gifts, I tried to work out where they lived and worked in Maine. A cluster of many different stops close together suggested home or the surrounding neighbourhood, while the same stop repeating over and over pointed to a workplace, somewhere the person spent all day. The names of the stops also gave extra context: a library, post office and ice cream shop hint at everyday errands, while two marine research labs look a lot like a job. 
