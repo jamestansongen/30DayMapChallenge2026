@@ -11,6 +11,12 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 18: null
+
+I was originally thinking of mapping Point Nemo or Null Island, but decided to map absence instead. In OpenStreetMap, buildings can be tagged as abandoned, ruined or disused, so I went looking for a place where null takes up a whole district.  The place I landed on was Varosha, the beachfront district of Famagusta, Cyprus. In the early 1970s it was one of the Mediterranean's best-known tourist destinations, but it was fenced off in 1974 during the conflict that divided the island. Since 2020, parts of it have slowly been opening up to the public.
+
+![Day 18](Day%2018/Day%2018.png)
+
 ### Day 17: Light & Shadow
 
 Rjukan (Norway) sits in a valley where the mountains block the sun from late September to mid-March. The town’s founder first proposed a sun mirror in 1913 which was finally built in 2013. Today, three sun-tracking mirrors on the slope reflect light onto the town square.
