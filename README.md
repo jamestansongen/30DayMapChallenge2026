@@ -11,6 +11,20 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 19: Senses: Smell
+
+While searching for inspiration, I came across Kate McLean’s smellmaps (part of her Sensory Maps project). She records smells while walking around a city, then turns them into contour maps of the city's scents.
+
+I loved the style, but I didn't have the luxury of time to walk around and collect scents myself. The proxy I thought of was trees and flowers which have some of the strongest smells in a city. Many cities also publish open street-tree registers with species and trunk size. I experimented with a few cities' registers (New York, Melbourne, Paris) and decided to focus on Vienna.
+
+How the map is designed is that each fragrant tree gives off a "scent cloud" (modelled, not measured), and the bigger the trunk diameter, the bigger the cloud. Where trees cluster, the clouds stack up into stronger rings.
+
+Next time, I would love to try other scent sources such as food (e.g. bakeries or coffee roasters) or get a group of people to walk around an area, record what they smell, and see what the crowdsourced map looks like.
+
+![Day 19](Day%2019/Day%2019.png)
+
+Data Source: [Tree register or tree locations in Vienna](https://www.data.gv.at/datasets/c91a4635-8b7d-43fe-9b27-d95dec8392a7?locale=de) 
+
 ### Day 18: null
 
 I was originally thinking of mapping Point Nemo or Null Island, but decided to map absence instead. In OpenStreetMap, buildings can be tagged as abandoned, ruined or disused, so I went looking for a place where null takes up a whole district.  The place I landed on was Varosha, the beachfront district of Famagusta, Cyprus. In the early 1970s it was one of the Mediterranean's best-known tourist destinations, but it was fenced off in 1974 during the conflict that divided the island. Since 2020, parts of it have slowly been opening up to the public.
@@ -24,7 +38,6 @@ Rjukan (Norway) sits in a valley where the mountains block the sun from late Sep
 The map compares direct sun hours on the winter solstice, when the town square gets 0 minutes of sun, with the spring equinox, when it gets 18 minutes. The map was made with [cityshade](https://janosovm.gumroad.com/l/cityshade), a Python library by Milan Janosov. It was easy to use and there are plenty of tutorials.
 
 ![Day 17](Day%2017/Day%2017.png)
-
 
 ### Day 16: Collaborative Map
 
@@ -44,7 +57,7 @@ A few things to note in this inverted world: the Mariana Trench becomes the high
 
 ![Day 15](Day%2015/Day%2015_edited_compressed.png)
 
-Data Source: [GEBCO_2026 Grid (ice surface elevation)](https://discover.data.vic.gov.au/dataset/trees-with-species-and-dimensions-urban-forest) 
+Data Source: [GEBCO_2026 Grid (ice surface elevation)](https://www.gebco.net/data-products-gridded-bathymetry-data/gebco2026-grid) 
 
 ### Day 14: Borgesian map
 
