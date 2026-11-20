@@ -11,6 +11,18 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 20: Hexagons
+ 
+I have done bivariate and 3D bivariate hexagons for this theme in previous years, so this time each hexagon is a mini scorecard, with each wedge showing how accessible a different everyday need is.
+ 
+I first thought about a country-wide map (e.g. elevation, rainfall, temperature, population, vegetation), but at that scale each hexagon either has to be tiny which is too small to read the wedges, or so big that it averages away the detail. So I settled on one city and one idea: the “X-minute city”, where daily essentials are within walking distance.
+ 
+In 2017, Melbourne launched Plan Melbourne, which defines a 20-minute neighbourhood as one where people can meet most daily needs within a 20-minute return walk from home.
+ 
+This map shows that only 10% of walkable Melbourne has all six within reach. There are a few caveats. Scale matters so changing the hexagon size changes the result (i.e. how you define a “neighbourhood” shapes the answer). The analysis also assumes an average walking speed, so for people with different mobility needs, the map could look quite different.
+
+![Day 20](Day%2020/Day%2020.png)
+
 ### Day 19: Senses: Smell
 
 While searching for inspiration, I came across Kate McLean’s smellmaps (part of her Sensory Maps project). She records smells while walking around a city, then turns them into contour maps of the city's scents.
