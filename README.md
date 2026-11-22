@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 22: Projections
+ 
+In September, the UN General Assembly endorsed a resolution encouraging equal-area map projections like Equal Earth over the Mercator projection, for a more accurate representation of land masses (i.e. so maps stop shrinking Africa and inflating Greenland).
+
+Around the same time, I vaguely remember someone posting a projection of the world in the shape of a duck. So I thought: why not project the world in the shape of a cat, as a small contribution to ca(r)tography?
+
+In this CATesian projection, the whole world is folded into a cat's head, and a few familiar lines get a feline makeover: the Prime Meowridian, the Equa-purr, and the Tropics of Catcer and Capricat. Where the UN asks for maps that preserve area, this one proudly preserves nothing.
+
+![Day 22](Day%2022/Day%2022.png)
+
 ### Day 21: OpenStreetMap
  
 By my count, this is about the 5th time during this challenge I've built a map on OpenStreetMap data. Instead of just plotting, I decided to do some routing to find the optimal path through all the UK National Parks. I got a visitor centre for each park from OSM, then used OSRM (routing on OSM roads) to work out the shortest drive that hits every park once. It comes out at about 2,300 km and roughly 32 hours of driving.
