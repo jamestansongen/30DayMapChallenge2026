@@ -11,6 +11,15 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 21: OpenStreetMap
+ 
+By my count, this is about the 5th time during this challenge I've built a map on OpenStreetMap data. Instead of just plotting, I decided to do some routing to find the optimal path through all the UK National Parks. I got a visitor centre for each park from OSM, then used OSRM (routing on OSM roads) to work out the shortest drive that hits every park once. It comes out at about 2,300 km and roughly 32 hours of driving.
+ 
+So far I’ve visited 9 of the 15 (Lake District, Yorkshire Dales, North York Moors, Peak District, Snowdonia, Exmoor, Dartmoor, New Forest and South Downs) and hope to visit the rest someday (also wouldn't mind revisiting the parks)!
+
+![Day 21](Day%2021/Day%2021.gif)
+
+
 ### Day 20: Hexagons
  
 I have done bivariate and 3D bivariate hexagons for this theme in previous years, so this time each hexagon is a mini scorecard, with each wedge showing how accessible a different everyday need is.
