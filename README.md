@@ -11,6 +11,18 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 23: Senses: Taste
+ 
+In September, the UN General Assembly endorsed a resolution encouraging equal-area map projections like Equal Earth over the Mercator projection, for a more accurate representation of land masses (i.e. so maps stop shrinking Africa and inflating Greenland).
+
+Around the same time, I vaguely remember someone posting a projection of the world in the shape of a duck. So I thought: why not project the world in the shape of a cat, as a small contribution to ca(r)tography?
+
+In this CATesian projection, the whole world is folded into a cat's head, and a few familiar lines get a feline makeover: the Prime Meowridian, the Equa-purr, and the Tropics of Catcer and Capricat. Where the UN asks for maps that preserve area, this one proudly preserves nothing.
+
+![Day 23](Day%2023/Day%2023.png)
+
+Data Source: [Umweltzone - Berlin](https://hub.arcgis.com/datasets/esri-de-content::umweltzone-berlin/about) 
+
 ### Day 22: Projections
  
 In September, the UN General Assembly endorsed a resolution encouraging equal-area map projections like Equal Earth over the Mercator projection, for a more accurate representation of land masses (i.e. so maps stop shrinking Africa and inflating Greenland).
@@ -28,7 +40,6 @@ By my count, this is about the 5th time during this challenge I've built a map o
 So far I’ve visited 9 of the 15 (Lake District, Yorkshire Dales, North York Moors, Peak District, Snowdonia, Exmoor, Dartmoor, New Forest and South Downs) and hope to visit the rest someday (also wouldn't mind revisiting the parks)!
 
 ![Day 21](Day%2021/Day%2021.gif)
-
 
 ### Day 20: Hexagons
  
