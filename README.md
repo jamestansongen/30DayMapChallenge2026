@@ -13,11 +13,13 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 23: Senses: Taste
  
-In September, the UN General Assembly endorsed a resolution encouraging equal-area map projections like Equal Earth over the Mercator projection, for a more accurate representation of land masses (i.e. so maps stop shrinking Africa and inflating Greenland).
-
-Around the same time, I vaguely remember someone posting a projection of the world in the shape of a duck. So I thought: why not project the world in the shape of a cat, as a small contribution to ca(r)tography?
-
-In this CATesian projection, the whole world is folded into a cat's head, and a few familiar lines get a feline makeover: the Prime Meowridian, the Equa-purr, and the Tropics of Catcer and Capricat. Where the UN asks for maps that preserve area, this one proudly preserves nothing.
+In 2015, Sam Floy came up with "[Gentri-Fried Chicken](https://samfloy.com/the-story-of-gentri-fried-chicken/)", a method to spot London's up-and-coming neighbourhoods by comparing the relative density of coffee shops and fried chicken shops, then checking house prices. Lots of coffee and few chicken shops, with house prices still low? That area is probably gentrifying.
+ 
+I tried the idea in Berlin, swapping fried chicken for döner and comparing it against independent coffee (without the house-price step). This involved pulling every café and döner shop in Berlin from Overture Maps; filtering out chains (e.g. Starbucks, Balzac, Einstein) and businesses wrongly listed as cafés (e.g. sushi, pizza delivery, coffee machine dealers); counting the shops in each 900 m hexagon; and comparing each hexagon's coffee-to-döner mix with Berlin's overall mix. Teal = more coffee than the city average, red = more döner. Areas with too few shops to make any conclusion stay grey.
+ 
+The result: 934 döner shops, 556 independent coffee places, and a clear pattern. Coffee clusters inside the S-Bahn ring, while döner dominates the outer districts.
+ 
+Disclaimer: this is not proof, just a snapshot, and results may vary depending on the data source and filtering.
 
 ![Day 23](Day%2023/Day%2023.png)
 
