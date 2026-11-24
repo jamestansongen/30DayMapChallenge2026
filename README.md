@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 24: Networks
+ 
+In the weeks leading up to the challenge, I kept seeing animated public transport maps built from open timetable data (GTFS). I wanted to try one myself, so I picked Zürich.
+ 
+Every dot is one scheduled vehicle (S-Bahn, tram, bus or boat) moving along the real tracks and roads. You can see the city wake up slowly, the rush hours, and then the quieter night network. It is a model based on the timetable for a normal Wednesday, not live GPS. Built in Python from the Swiss open timetable (GTFS), with routes snapped to OpenStreetMap.
+
+![Day 24](Day%2024/Day%2024.gif)
+
+Data Source: [Swiss national GTFS](https://data.opentransportdata.swiss/dataset/timetable-2026-gtfs2020/permalink) 
+
 ### Day 23: Senses: Taste
  
 In 2015, Sam Floy came up with "[Gentri-Fried Chicken](https://samfloy.com/the-story-of-gentri-fried-chicken/)", a method to spot London's up-and-coming neighbourhoods by comparing the relative density of coffee shops and fried chicken shops, then checking house prices. Lots of coffee and few chicken shops, with house prices still low? That area is probably gentrifying.
