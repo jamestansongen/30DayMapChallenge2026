@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 25: Is this a map?
+ 
+Is this a tree stump, or a map of trees? It could be either. Each ring is a real circle around Christ the Redeemer in Rio de Janeiro, with canopy height pushed outwards as bumps: rough where there's forest, smooth where there's city and water.
+ 
+The statue stands in the Tijuca Forest, one of the world's largest urban forests. It was reforested in the 1800s after coffee plantations had cleared the hills.
+
+![Day 25](Day%2025/canopy_rings_rio_de_janeiro_wood.png)
+
+Data Source: [High Resolution Canopy Height Maps by WRI and Meta](https://registry.opendata.aws/dataforgood-fb-forests/) 
+
 ### Day 24: Networks
  
 In the weeks leading up to the challenge, I kept seeing animated public transport maps built from open timetable data (GTFS). I wanted to try one myself, so I picked Zürich.
