@@ -17,7 +17,7 @@ The Spilhaus projection is one of my favourites for artistic reasons as it shows
  
 Keeping it simple today by showing a year of ocean surface currents, painted in the colours of Van Gogh's The Starry Night. Deep blue is slow water, and gold marks the fastest currents, like the Antarctic Circumpolar Current, the Gulf Stream and the Agulhas.
 
-![Day 26](Day%2026/Day_26.gif)
+![Day 26](Day%2026/Day%2026.gif)
 
 Data Source: [Global Ocean Physics Analysis and Forecast](https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/description) 
 
