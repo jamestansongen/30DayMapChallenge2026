@@ -11,6 +11,16 @@ I am currently a Principal Geomatics Engineer at the Singapore Land Authority an
 I specialise in Geographic Information Systems (GIS), Remote Sensing, Data Science, and Agent-Based Modelling. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 26: Water
+ 
+The Spilhaus projection is one of my favourites for artistic reasons as it shows the oceans as one continuous body of water instead of being split up by the continents.
+ 
+Keeping it simple today by showing a year of ocean surface currents, painted in the colours of Van Gogh's The Starry Night. Deep blue is slow water, and gold marks the fastest currents, like the Antarctic Circumpolar Current, the Gulf Stream and the Agulhas.
+
+![Day 26](Day%2026/Day_26.gif)
+
+Data Source: [Global Ocean Physics Analysis and Forecast](https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/description) 
+
 ### Day 25: Is this a map?
  
 Is this a tree stump, or a map of trees? It could be either. Each ring is a real circle around Christ the Redeemer in Rio de Janeiro, with canopy height pushed outwards as bumps: rough where there's forest, smooth where there's city and water.
